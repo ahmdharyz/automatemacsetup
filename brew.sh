@@ -20,6 +20,7 @@ brew install --cask onedrive
 brew install --cask telegram
 brew install --cask todoist
 brew install --cask transmission
+brew install --cask the-unarchiver
 brew install --cask viber
 brew install --cask vlc
 brew install --cask visual-studio-code
