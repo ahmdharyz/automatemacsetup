@@ -17,6 +17,7 @@ brew install --cask monitor control
 brew install --cask mounty
 brew install --cask numi
 brew install --cask onedrive
+brew install --cask raycast
 brew install --cask telegram
 brew install --cask todoist
 brew install --cask transmission
